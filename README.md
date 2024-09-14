@@ -13,9 +13,9 @@ Prajan Kannan Power BI Task 2.pbix
 
 Prajan Kannan Power BI Task 3.pbix
 
-This Power BI file contains visualizations and dashboards focused on Key Performance Indicators (KPIs). It showcases how KPIs are tracked and reported to measure business performance.
+These Power BI files contain visualizations and dashboards focused on Key Performance Indicators (KPIs). It showcases how KPIs are tracked and reported to measure business performance.
 
-File includes analyses and visualizations aimed at providing insights into customer behavior, preferences, and trends. It demonstrates how data can be used to gain a deeper understanding of customer dynamics.
+Files include analyses and visualizations aimed at providing insights into customer behavior, preferences, and trends. They tend to demonstrates how data can be used to gain a deeper understanding of customer dynamics.
 
 ## Usage
 
